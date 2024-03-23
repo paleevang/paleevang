@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 💮 About Me :
-  My name is Palee (Pa-lee). It's an unusual name, but in my native language my name means "Moon Flower". I am currently a student and chose to become a Full-Stack Web Developer because I enjoy the process of creating something from the ground up and love the creativity in this process. Fortunately, coding offers me this! After graduating I want to work and get more experience in this field of work.
+  My name is Palee (Pa-lee). It's an unusual name, but in my native language my name means "Moon Flower". I am currently a student and chose to become a Full-Stack Web Developer because I enjoy the process of creating something from the ground up and love the creativity in this process. Fortunately, coding offers me this! After graduating I want to work and get more experience in this field of work. 
+  
+  My technical skills encompass a wide range of programming languages, including Python, JavaScript, CSS, and HTML. With a solid foundation in data structures and algorithms, I confidently tackle challenges and continuously strive to expand my expertise in emerging technologies.
+  
 - 👩‍🎓: Arizona State University: Graphic Information Technology - Full Stack Web development
 
 - 🥅: Future career goal: Blog + Animal Sanctuary
