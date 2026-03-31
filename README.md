@@ -6,8 +6,6 @@
   
 - 👩‍🎓: Arizona State University: Graphic Information Technology - Full Stack Web development
 
-- 🥅: Future career goal: Blog + Animal Sanctuary
-
 - 📚: In my free time, I enjoy reading and learning new things!
 
 - 🎥: Favorite movie series: The Hobbit. I enjoy a great adventurous and fantasy storyline.
