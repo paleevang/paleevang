@@ -1,41 +1,62 @@
-### Hi there 👋
+# Hi, I’m Palee! 👋 
 ### 💮 About Me :
-  My name is Palee (Pa-lee). It's an unusual name, but in my native language my name means "Moon Flower". I am currently a student and chose to become a Full-Stack Web Developer because I enjoy the process of creating something from the ground up and love the creativity in this process. Fortunately, coding offers me this! After graduating I want to work and get more experience in this field of work. 
-  
-  My technical skills encompass a wide range of programming languages, including Python, JavaScript, CSS, and HTML. With a solid foundation in data structures and algorithms, I confidently tackle challenges and continuously strive to expand my expertise in emerging technologies.
-  
-- 👩‍🎓: Arizona State University: Graphic Information Technology - Full Stack Web development
+My name is Palee (Pa-lee). It's an unusual name, but in my native language my name means "Moon Flower". I am currently a student and chose to become a Full-Stack Web Developer because I enjoy the process of creating something from the ground up and love the creativity in this process. Fortunately, coding offers me this!  I’m focused on gaining hands-on experience in web development while developing projects that reflect my interests and skills.
 
-- 📚: In my free time, I enjoy reading and learning new things!
+---
 
+## 🎯 Career Goals
+- Gain real-world experience in web development
+
+---
+
+## 📚 Personal Interests
+- 📚: In my free time, I enjoy reading and learning new subjects!
 - 🎥: Favorite movie series: The Hobbit. I enjoy a great adventurous and fantasy storyline.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Phyton" alt="Python" width="40" height="40"/>&nbsp;
-</div>
+## 🎓 Education
+**Arizona State University**  
+Graphic Information Technology – Full-Stack Web Development  
 
 ---
 
-### :fire: My Stats :
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paleevang&show_icons=true&theme=radical)](https://github.com/paleevang)
+## 💻 Hard Skills
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML  
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
 
-<!--
-**paleevang/paleevang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Soft Skills
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) SQL
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) Figma
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Projects
+- [Street Tacos](https://github.com/paleevang/recipe) – Mobile-First Food Website
+- [GlamNail Website](https://github.com/paleevang/GIT-417-final) – Single-page product showcase  
+- [Friesian Horse Farm](https://github.com/paleevang/Horse-Farm) – Fully functioning website + contact form + appointment form
+- [Fiona's Farm](https://github.com/paleevang/Farm) – Responsive Layout (Mobile-Tablet–Desktop)
+- [Frostpeak Lodge](https://github.com/paleevang/GIT-215-Final) – Website & Form-Focused UI Design
+- [Wunderlusts](https://github.com/paleevang/Wunderlusts) – Single-page travel plan website
+- [Viewport](https://github.com/paleevang/viewport) – Focus: Media queries, supports queries, viewport, and breakpoints in responsive CSS
+- [Accessible Forms](https://github.com/paleevang/Accessible-Forms) – Coding semantic and accessible forms
+- [Personalized Life Coaching](https://github.com/paleevang/path-to-success) – Tablet & Laptop UI Prototype
+- [CSS Reset Activity](https://github.com/paleevang/css-reset-starter) – CSS Reset
+- [Font/Text Properties](https://github.com/paleevang/font-text-properties) – Font/Text Properties & Positioning
+- [Box Model](https://github.com/paleevang/box-model-common-props) – CSS Box Model and Common CSS Properties
+- [Images, Video, Favicons, & Tables](https://github.com/paleevang/images-video-favicons-tables) – Images, Video & Tables in HTML
+- [Navigation and Links](https://github.com/paleevang/m3_campus_navAndLinks) – Navigation and Links in HTML
+- [Semantic Coding](https://github.com/paleevang/semantic-practice) – Semantic HTML
+
+---
+
+## 📫 Contact Me
+- Email: 2021paleevang@gmail.com  
+- Portfolio Website: [Coming Soon](https://yourwebsite.com)  
+- LinkedIn: [Palee LinkedIn](www.linkedin.com/in/palee-vang-7b2651333)  
+
+---
